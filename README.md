@@ -1,4 +1,4 @@
-# Smmart Parking System
+# Smart Parking System
 
 **The proposed smart parking project aims to revolutionize urban parking management by leveraging a combination of innovative technologies and strategic solutions. The core objective is to address the growing challenges of parking in urban areas, optimizing space utilization, and providing a seamless experience for both drivers and administrators. The project deploys a network of Internet of Things (IoT) devices and sensors equipped with ultrasonic, infrared, and camera technologies to monitor real-time parking space availability. The collected data is transmitted wirelessly to a central control unit, enabling instant updates on parking status.**
 

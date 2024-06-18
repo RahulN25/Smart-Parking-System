@@ -25,24 +25,24 @@ Objective: Enhance security through image sensors at entry and exit points, prov
 
 >Login Page
 
-![This is an image](/Results/Login.jpg)
+![This is an image](/Result/Login.jpg)
 
 
 >Sign Up Page
 
-![This is an image](/Results/SignUp.jpg)
+![This is an image](/Result/SignUp.jpg)
 
 
 >Homepage
 
-![This is an image](/Results/Index.jpg)
+![This is an image](/Result/Index.jpg)
 
 
 >Booking Page
 
-![This is an image](/Results/Booking.jpg)
+![This is an image](/Result/Booking.jpg)
 
 
 >User Profile Page with Booking History
 
-![This is an image](/Results/UserProfile.jpg)
+![This is an image](/Result/UserProfile.jpg)
